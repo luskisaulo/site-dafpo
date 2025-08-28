@@ -1,3 +1,0 @@
-[build]
-  # Esta linha garante que a Netlify publique a pasta principal do seu projeto.
-  publish = "."
